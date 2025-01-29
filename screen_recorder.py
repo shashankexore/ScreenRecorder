@@ -1,7 +1,3 @@
-
-
-
-
 # importing the required packages
 import pyautogui
 import cv2
